@@ -1,2 +1,2 @@
 # DataMiningAssignmentsPython
-The repository datamining assignment python notebooks for bits pilani DataMining course
+The repository contains datamining assignment python notebooks for bits pilani DataMining course
